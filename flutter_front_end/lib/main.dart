@@ -4,7 +4,7 @@ import 'package:flutter_front_end/vues/home.dart';
 void main() {
   runApp(
     const MaterialApp(
-      home: homePage(),
+      home: HomePage(),
       debugShowCheckedModeBanner: false,
     ),
   );
